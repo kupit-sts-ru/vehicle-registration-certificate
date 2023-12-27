@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kupit-sts-ru.github.io/vehicle-registration-certificate/sitemap.xml
+Host: https://kupit-sts-ru.github.io/vehicle-registration-certificate
